@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Sum Of Factors App</string>
+    <string name="sum_of_factors">Sum Of Factors</string>
+    <string name="home">Home!</string>
+    <string name="todo">TODO</string>
+    <string name="click_on_the_button_to_enter_another_number">Click on the button to enter another number!</string>
+    <string name="placeholder">PLACEHOLDER!</string>
+    <string name="calculate">Calculate!</string>
+    <string name="enter_a_number_greater_than_0">Enter a number greater than 0.</string>
+    <string name="enter_a_positive_number_less_than_100_000_and_click_on_the_button_to_get_your_result">Enter a positive number less than 100 000, and click on the button to get your result!</string>
+
+</resources>
